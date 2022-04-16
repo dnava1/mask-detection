@@ -1,14 +1,16 @@
 # Mask Detection
 
 ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/90110498/163665926-174ada17-8238-4764-88f2-c8c8500bad32.gif)
-### Face mask detection using Python, Pytorch, and ultralytics/yolov5
+
 Custom model was trained using the YOLO algorithm to detect face masks
 ## Photo Detection
 Model can be used for detecting masks in photos
 
-![picture](https://user-images.githubusercontent.com/90110498/163665399-1d181566-590d-4668-8d50-a6300f38f929.jpg)
+![Captu22re](https://user-images.githubusercontent.com/90110498/163667261-5c3de139-70c3-4034-892f-548266988a74.JPG)
 
-#### Real Time Video Detection
+
+
+## Real Time Video Detection
 Model can be used for detecting masks in live video feeds
 
 
