@@ -2,7 +2,10 @@
 
 ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/90110498/163665926-174ada17-8238-4764-88f2-c8c8500bad32.gif)
 
-Custom model was trained using the YOLO algorithm to detect face masks
+#### Custom model was trained using the YOLO algorithm to detect face masks <br> 
+•Images were taken using OpenCV <br> 
+•tzutalin/labelImg  was used for labeling <br>
+•ultralytics/yolov5 was used to implement YOLO algorithm
 ## Photo Detection
 Model can be used for detecting masks in photos
 
